@@ -6,7 +6,7 @@ Hello👋, Dixant (Dishant) Sapkota here!
 I am an $Electrical$ Engineer with a passion for power systems, machine learning, control systems and system reliability.
 </h3>
 <h4 align = center>
-    Reach me at: $dixantbs7@gmail.com$
+    Reach me at: $dbsapkota@wisc.edu$
 </h4>
 <h4 align = center>
 Connect with me:
