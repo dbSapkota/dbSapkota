@@ -1,5 +1,5 @@
 <h1 align = center>
-Hello👋, Dixant Bikal Sapkota here!
+Hello👋, Dixant (Dishant) Sapkota here!
 </h1>
 
 <h3 align = center>
